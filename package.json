@@ -1,0 +1,26 @@
+{
+  "name": "json-browser-log",
+  "version": "0.1.0",
+  "description": "Visualize a json log on the browser and filter results easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/trufa/json-browser-log.git"
+  },
+  "keywords": [
+    "json",
+    "log",
+    "browser",
+    "visualize",
+    "node"
+  ],
+  "author": "Trufa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trufa/json-browser-log/issues"
+  },
+  "homepage": "https://github.com/trufa/json-browser-log#readme"
+}
